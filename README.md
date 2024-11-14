@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moudheen
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on data analysis
+- 👀 I’m interested in knowledge
+- 🌱 I’m currently learning product management
+- 💞️ I’m looking to collaborate on any topic which interests you.
 - 📫 How to reach me mail me on mohiddeenali05@gmail.com or call me at +91-7075045420
 
 <!---
